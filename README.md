@@ -1,1 +1,2 @@
-# React
+# ReactJS
+- part of JavaScript
